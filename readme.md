@@ -27,3 +27,9 @@ php artisan key:generate
 ```
 php artisan migrate
 ```
+
+## Built With (Require)
+
+* [Laravel 5.5](https://laravel.com/docs/5.5/installation) - The web framework used
+* [PHP 7.0](http://php.net/downloads.php) - The PHP version must >= PHP 7.0
+* [Composer](https://getcomposer.org/download/) - Composer For update this project.
