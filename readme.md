@@ -8,5 +8,5 @@
 ## How to Install this
 <p>
 1.Clone this repository
-> git clone https://github.com/dekiakbar/multiauth
 </p>
+> git clone https://github.com/dekiakbar/multiauth
