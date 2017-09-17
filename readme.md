@@ -7,6 +7,9 @@
 
 ## Contact Me
 
+Wanna contact me for the issues, please inbox me.
+
+* [StackOverflow](https://stackoverflow.com/users/7978371/deki-akbar)
 * [Facebook](https:web.facebook.com/itsdekiakbar)
 * [LinkedIn](https:linkedin.com/dekiakbar)
 * Email : Dekiakbar@linuxmail.org
@@ -43,3 +46,4 @@ php artisan migrate
 * [Laravel 5.5](https://laravel.com/docs/5.5/installation) - The web framework used.
 * [PHP 7.0](http://php.net/downloads.php) - The PHP version must >= PHP 7.0.
 * [Composer](https://getcomposer.org/download/) - Composer For update this project.
+* [Ubuntu](https://www.ubuntu.com/download) - The OS I use to make this project.
