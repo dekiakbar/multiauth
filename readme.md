@@ -16,10 +16,14 @@ git clone https://github.com/dekiakbar/multiauth
 cd /multiauth
 ```
 3.then run the following command in your terminal :
-'''
+```
 composer update
-'''
+```
 4.then run this command to generate new key on your laravel project :
-'''
+```
 php artisan key:generate
-'''
+```
+5.dont forget to change the database name,username and password on **.env** file, then run :
+```
+php artisan migrate
+```
