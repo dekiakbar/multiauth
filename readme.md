@@ -9,4 +9,6 @@
 <p>
 1.Clone this repository
 </p>
-> git clone https://github.com/dekiakbar/multiauth
+```bash
+ git clone https://github.com/dekiakbar/multiauth
+```
