@@ -9,6 +9,6 @@
 <p>
 1.Clone this repository
 </p>
-```bash
+```
 git clone https://github.com/dekiakbar/multiauth
 ```
